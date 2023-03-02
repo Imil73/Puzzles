@@ -1,0 +1,15 @@
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/bin/Debug/net6.0/Lesson_15
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/bin/Debug/net6.0/Lesson_15.deps.json
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/bin/Debug/net6.0/Lesson_15.runtimeconfig.json
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/bin/Debug/net6.0/Lesson_15.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/bin/Debug/net6.0/Lesson_15.pdb
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.csproj.AssemblyReference.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.AssemblyInfoInputs.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.AssemblyInfo.cs
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.csproj.CoreCompileInputs.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/refint/Lesson_15.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.pdb
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/Lesson_15.genruntimeconfig.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_15/obj/Debug/net6.0/ref/Lesson_15.dll
