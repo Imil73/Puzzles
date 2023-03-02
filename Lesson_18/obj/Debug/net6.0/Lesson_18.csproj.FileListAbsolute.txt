@@ -1,0 +1,15 @@
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.csproj.AssemblyReference.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.AssemblyInfoInputs.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.AssemblyInfo.cs
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.csproj.CoreCompileInputs.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/bin/Debug/net6.0/Lesson_18
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/bin/Debug/net6.0/Lesson_18.deps.json
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/bin/Debug/net6.0/Lesson_18.runtimeconfig.json
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/bin/Debug/net6.0/Lesson_18.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/bin/Debug/net6.0/Lesson_18.pdb
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/refint/Lesson_18.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.pdb
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/Lesson_18.genruntimeconfig.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_18/obj/Debug/net6.0/ref/Lesson_18.dll
