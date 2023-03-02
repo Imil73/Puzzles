@@ -1,0 +1,15 @@
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.csproj.AssemblyReference.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.AssemblyInfoInputs.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.AssemblyInfo.cs
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.csproj.CoreCompileInputs.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/bin/Debug/net6.0/Lesson_16
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/bin/Debug/net6.0/Lesson_16.deps.json
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/bin/Debug/net6.0/Lesson_16.runtimeconfig.json
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/bin/Debug/net6.0/Lesson_16.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/bin/Debug/net6.0/Lesson_16.pdb
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/refint/Lesson_16.dll
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.pdb
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/Lesson_16.genruntimeconfig.cache
+/Users/milingazetdinov/Desktop/Portfolio_1/Puzzle/Lesson_16/obj/Debug/net6.0/ref/Lesson_16.dll
